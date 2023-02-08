@@ -1,7 +1,7 @@
 # hatchtakehomeproject
 
 ## Link to Presentation:
-https://youtu.be/UXeodcCkmJk
+https://youtube.com/shorts/SCNWE5jHagg
 
 ## Prompt
 
@@ -13,6 +13,17 @@ Frontend Component:
 
 By using React Native, I coded the user interface to present the 5 components O chose to implement from the sitemap. I also decided to include a simple settings page to go along with the app as I felt it most necessary.
 
+## individual components
+
+Menu Bar: The menu bar on the bottom displays the three main components from the sitemap plus the added bonus of a settings page. Each of them have their own icon. Each ico takes you to the specific page as well. 
+
+Messages Page: The Messages page has a send button and a text input bar for people to text and have it show up right above it. It also displays "Messages" on the top of it.
+
+Feed Page: This page does not have any features incorporated. It does show company name at the very top because I imagine this is the first page people would see when opening up the app.
+
+Profile Page: Shows a profile picture, name, sex, age, the current job/position of the user, as well as the profile header and bio.
+
+Settings Page: Added bonus to the project. Although it only displays three potential settings' features, I am sure there are many more that could be added since it is a professional app.
 
 ## Installalation instructions:
 -Download expo go on your device
