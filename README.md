@@ -2,9 +2,13 @@
 
 ## Purpose
 Collin Fox's Front End Engineer Application
+There are two branches named main and feature where main was submitted before 8 AM deadline. Feature was pushed after the fact but contains one new feature. I was a bit of a perfectionist and wanted to add one more feature even if it was past the deadline.
 
-## Link to Presentation:
+## Link to Video Main Branch:
 https://youtube.com/shorts/SCNWE5jHagg
+##Link to Video Feature Branch
+https://youtube.com/shorts/gNG8N3XjI1o
+
 
 ## Prompt
 
@@ -29,6 +33,7 @@ Profile Page: Shows a profile picture, name, sex, age, the current job/position 
 Settings Page: Added bonus to the project. Although it only displays three potential settings' features, I am sure there are many more that could be added since it is a professional app.
 
 Overall features added from sitemap: bio, profile header, profile picture, active jobs, Chat Feature, and settings page.
+Added in feature branch was extra new chat feature so now there are six components. After Deadline.
 
 ## Installalation instructions:
 -Download expo go on your device
