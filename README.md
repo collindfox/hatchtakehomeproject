@@ -1,5 +1,8 @@
 # hatchtakehomeproject
 
+## Purpose
+Collin Fox's Front End Engineer Application
+
 ## Link to Presentation:
 https://youtube.com/shorts/SCNWE5jHagg
 
