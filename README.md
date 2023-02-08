@@ -25,6 +25,8 @@ Profile Page: Shows a profile picture, name, sex, age, the current job/position 
 
 Settings Page: Added bonus to the project. Although it only displays three potential settings' features, I am sure there are many more that could be added since it is a professional app.
 
+Overall features added from sitemap: bio, profile header, profile picture, active jobs, Chat Feature, and settings page.
+
 ## Installalation instructions:
 -Download expo go on your device
 
